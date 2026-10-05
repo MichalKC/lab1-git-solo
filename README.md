@@ -2,5 +2,7 @@
 
 
 
-laboratorium nr 1 
+laboratorium nr 1
+
+przykład nr 3
 
