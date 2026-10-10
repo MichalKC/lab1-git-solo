@@ -6,3 +6,4 @@ Michał
 
 Linia końcowa
 
+ZMINA NA HUB
