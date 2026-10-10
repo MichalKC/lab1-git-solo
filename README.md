@@ -1,4 +1,4 @@
-\## Autor - zmiana tytułu :/
+\# Projekt Alfa
 
 Michał
 
